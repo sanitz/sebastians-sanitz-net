@@ -1,0 +1,25 @@
+{
+  "title": "Sebastians Notizen",
+  "url": "https://sebastian.sanitz.net",
+  "domain": "sanitz.net",
+  "description": "Description of the website. Update me.",
+  "genre": "Insert a schema.org genre",
+  "googleAnalyticsId": "G-209H81P19L",
+  "feed": {
+    "subtitle": "Subtitle. Update me.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://sebastian.sanitz.net/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://sebastian.sanitz.net/feed/feed.json"
+  },
+  "author": {
+    "name": "Sebastian Sanitz",
+    "twitterHandle": "Sanitz"
+  },
+  "publisher": {
+    "name": "Publisher name. Update me."
+  }
+}
