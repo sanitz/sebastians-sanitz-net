@@ -26,4 +26,4 @@ Schreibt mich gerne an - ich bin unter vielen Kanälen zu erreichen:
 
 ### Technik
 
-Der Blog ist kopiert von [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/). Die Sourcen liegen auf github unter [sanitz/sebastian.sanitz.net](https://github.com/sanitz/sebastian.sanitz.net). Gehostet wird die Seite via [![Netlify Status](https://api.netlify.com/api/v1/badges/5cac25d8-e9b1-46ff-a702-e42a9e6f3bc0/deploy-status)](https://app.netlify.com/sites/sanitz/deploys)
+Der Blog ist kopiert von [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/). Die Sourcen liegen auf github unter [sanitz/sebastian.sanitz.net](https://github.com/sanitz/sebastian.sanitz.net). Gehostet wird die Seite via [![Netlify Status](https://api.netlify.com/api/v1/badges/5cac25d8-e9b1-46ff-a702-e42a9e6f3bc0/deploy-status)](https://app.netlify.com/sites/sanitz/deploys/)
