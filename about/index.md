@@ -28,7 +28,4 @@ Schreibt mich gerne an - ich bin unter vielen Kanälen zu erreichen:
 
 Der Blog ist kopiert von [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/). Die Sourcen liegen auf github unter [sanitz/sebastian.sanitz.net](https://github.com/sanitz/sebastian.sanitz.net).
 
-### Hosting
-
-- Gehostet wird die Seite via [netlify](https://netlify.com/)
-- Der aktuelle Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/5cac25d8-e9b1-46ff-a702-e42a9e6f3bc0/deploy-status)](https://app.netlify.com/sites/sanitz/deploys/)
+Gehostet wird die Seite via [netlify](https://netlify.com/). Dabei werden alle Änderungen sofort veröffentlicht mit einem automatisierten Deployment: [![Netlify Status](https://api.netlify.com/api/v1/badges/5cac25d8-e9b1-46ff-a702-e42a9e6f3bc0/deploy-status)](https://app.netlify.com/sites/sanitz/deploys/)
