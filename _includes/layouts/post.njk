@@ -9,7 +9,7 @@ templateClass: tmpl-post
    {% set wc = content | striptags | wordcount %}
    {% set wPerMinute = wc / 240 %}
    <aside> 
-    {{ wPerMinute | round }} Lesezeit.
+    {{ wPerMinute | round }} Minuten Lesezeit.
    </aside>
 {% endblock %}
 
