@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
-title: About
+title: Über mich
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: Über mich
   order: 3
 ---
 
@@ -15,7 +15,7 @@ Ich bin fasziniert von  Software- und Produktentwicklung, der Zusammenarbeit in 
 
 ## Kontakt
 
-Schreibt mich gerne an - ich bin unter vielen Kanälen zu erreichen:
+Schreibt mich gerne an - ich bin über die folgenden Kanälen zu erreichen:
 
 - [Email](mailto:sebastian@sanitz.net)
 - [Threema](https://threema.id/4WRUXU7H)
