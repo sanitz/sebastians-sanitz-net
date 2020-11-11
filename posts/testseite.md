@@ -23,7 +23,7 @@ Main sheet swab spirits pink gally broadside. Hempen halter coxswain Pieces of E
 
 Our strategy is sustainable. We will lead a secure effort of the market through our use of learning organization and social media to build a growth. By being both innovative and disruptive, our cloud based approach will drive culture throughout the organization. Synergies between our competitive advantage and artificial intelligence will enable us to capture the upside by becoming agile in a collaborative world. These transformations combined with design thinking due to our leaders will create a digital business through ecosystem and data leaders.
 
-``` text/2-3
+```javascript
 // this is a command
 function myCommand() {
 	let counter = 0;
@@ -33,12 +33,13 @@ function myCommand() {
 // Test with a line break above this line.
 console.log('Test');
 ```
+
 Me hempen halter port hornswaggle pressgang topsail. Flogging swing the lead chase guns dead men tell no tales strike colors topmast. Measured fer yer chains Brethren of the Coast lugger walk the plank sheet fire ship. Weigh anchor Buccaneer barkadeer bounty aye crow's nest. Heave to hulk yard yardarm poop deck jolly boat.
 
 
 ## Section Header
 
-<a href="{{ '/posts/strategy/' | url }}">First post</a>
+<a href="{{ '/posts/testseite/' | url }}">First post</a>
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
@@ -59,3 +60,13 @@ mit text
 ### drei
 
 und ende
+
+# Klingeltöne
+
+### kt67
+
+<audio controls><source src="/sounds/kt67.mp3" type="audio/mpeg"></audio>
+
+### kt68
+
+<audio controls><source src="/sounds/kt68.mp3" type="audio/mpeg"></audio>
