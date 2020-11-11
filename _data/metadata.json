@@ -2,11 +2,11 @@
   "title": "Sebastians Notizen",
   "url": "https://sebastian.sanitz.net",
   "domain": "sanitz.net",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "G-209H81P19L",
+  "description": "Das ist der persönliche Blog von Sebastian Sanitz. Hier schreibe ich unregelmäßig meine Notizen zu Software-Entwicklung, Vorgehen und vielem mehr.",
+  "genre": "Insert a schema.org genre - update me",
+  "googleAnalyticsId": "",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Der persönliche Blog von Sebastian Sanitz",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://sebastian.sanitz.net/"

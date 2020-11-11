@@ -15,9 +15,9 @@ const GA_ID = require("../_data/googleanalytics.js")();
 
 describe("check build output for a generic post", () => {
   describe("sample post", () => {
-    const POST_FILENAME = "_site/posts/strategy/index.html";
+    const POST_FILENAME = "_site/posts/testseite/index.html";
     const URL = metadata.url;
-    const POST_URL = URL + "/posts/strategy/";
+    const POST_URL = URL + "/posts/testseite/";
 
     if (!existsSync(POST_FILENAME)) {
       it("WARNING skipping tests because POST_FILENAME does not exist", () => {});
@@ -44,14 +44,14 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have metadata", () => {
-      assert.equal(select("title"), "Strategie bla");
+      assert.equal(select("title"), "Testseite 👷");
       expect(select("meta[property='og:image']", "content")).to.match(
         /\/img\/remote\/\w+.jpg/
       );
       assert.equal(select("link[rel='canonical']", "href"), POST_URL);
       assert.equal(
         select("meta[name='description']", "content"),
-        "Das ist der erste Beitrag - zu Strategie bla"
+        "Das ist nur eine Testseite 👷"
       );
     });
 
@@ -114,13 +114,13 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have a header", () => {
-      expect(select("header > h1")).to.equal("Strategie bla");
-      expect(select("header aside")).to.match(/\d+ min read./);
+      expect(select("header > h1")).to.equal("Testseite 👷");
+      expect(select("header aside")).to.match(/\d+ Minuten Lesezeit/);
       expect(select("header dialog", "id")).to.equal("message");
     });
 
     it("should have a published date", () => {
-      expect(select("article time")).to.equal("20 Oct 2020");
+      expect(select("article time")).to.equal("20.10.2020");
       expect(select("article time", "datetime")).to.equal("2020-10-20");
     });
 
