@@ -60,13 +60,3 @@ mit text
 ### drei
 
 und ende
-
-# Klingeltöne
-
-### kt67
-
-<audio controls><source src="/sounds/kt67.mp3" type="audio/mpeg"></audio>
-
-### kt68
-
-<audio controls><source src="/sounds/kt68.mp3" type="audio/mpeg"></audio>
