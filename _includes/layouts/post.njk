@@ -6,11 +6,16 @@ templateClass: tmpl-post
 
 
 {% block extraArticleHeader %}
-   {% set wc = content | striptags | wordcount %}
-   {% set wPerMinute = wc / 240 %}
-   <aside> 
-    {{ wPerMinute | round }} Minuten Lesezeit.
-   </aside>
+  {% set wc = content | striptags | wordcount %}
+  {% set wPerMinute = wc / 240 %}
+  {% set lesezeit = wPerMinute | round %}
+  <aside> 
+  {% if lesezeit > 1 %}
+    {{ lesezeit }} Minuten Lesezeit
+  {% else %} 
+    1 Minute Lesezeit.
+  {% endif %} 
+  </aside>
 {% endblock %}
 
 {% set shareUrl = metadata.url + page.url %}
