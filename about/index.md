@@ -19,9 +19,10 @@ Schreibt mich gerne an - ich bin über die folgenden Kanälen zu erreichen:
 
 - [Email](mailto:sebastian@sanitz.net)
 - [Threema](https://threema.id/4WRUXU7H)
+- [Mastodon](https://mastodon.social/@sanitz)
 - [Twitter](https://twitter.com/Sanitz)
 - [github](https://github.com/sanitz)
-- [Xing](https://www.xing.com/profile/Sebastian_Sanitz/)
+- [Xing](https://www.xing.com/profile/Sebastian_Sanitz)
 - [LinkedIn](https://www.linkedin.com/in/sanitz)
 
 ## Technik
