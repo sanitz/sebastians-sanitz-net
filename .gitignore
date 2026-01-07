@@ -1,7 +1,8 @@
-_site/
-node_modules/
+public/
+resources/
+.hugo_build.lock
 .DS_Store
-js/min.js
-js/min.js.map
+Thumbs.db
 .vscode/
-.netlify/
+.idea/
+node_modules/

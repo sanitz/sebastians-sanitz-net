@@ -1,0 +1,126 @@
+baseURL = "https://sebastian.sanitz.net/"
+title = "Sebastians Notizen"
+languageCode = "de-de"
+defaultContentLanguage = "de"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  env = "production"
+  title = "Sebastians Notizen"
+  description = "Das ist der persönliche Blog von Sebastian Sanitz. Hier schreibe ich unregelmäßig meine Notizen zu Software-Entwicklung, Vorgehen und vielem mehr."
+  keywords = ["Software-Entwicklung", "Blog", "Technologie", "Teams"]
+  author = "Sebastian Sanitz"
+  
+  defaultTheme = "auto"
+  DateFormat = "2. January 2006"
+  
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowLastMod = true
+  ShowTags = true
+  UseHugoToc = true
+  ShowAllPagesInArchive = true
+  ShowPageNums = true
+
+[params.assets]
+  favicon = "/img/favicon/favicon.ico"
+  favicon16x16 = "/img/favicon/favicon-16x16.png"
+  favicon32x32 = "/img/favicon/favicon-32x32.png"
+  safari_pinned_tab = "/img/favicon/favicon.png"
+
+[params.profileMode]
+  enabled = false
+  title = "Sebastian Sanitz"
+  subtitle = "Software-Entwicklung, Teams, Technologie & mehr."
+  imageUrl = "/img/sebastian.jpg"
+  imageTitle = "Sebastian Sanitz"
+  imageWidth = 150
+  imageHeight = 150
+
+[[params.profileMode.buttons]]
+  name = "Blog"
+  url = "/posts"
+
+[[params.profileMode.buttons]]
+  name = "Über mich"
+  url = "/about"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:sebastian@sanitz.net"
+
+[[params.socialIcons]]
+  name = "mastodon"
+  url = "https://norden.social/@sanitz"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/sanitz"
+
+[[params.socialIcons]]
+  name = "xing"
+  url = "https://www.xing.com/profile/Sebastian_Sanitz"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/sanitz"
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "/index.xml"
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
+
+[params.cover]
+  linkFullImages = true
+
+[[menu.main]]
+  identifier = "search"
+  name = "Suche"
+  url = "/search/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "about"
+  name = "Über mich"
+  url = "/about/"
+  weight = 20
