@@ -45,4 +45,8 @@ Dies erstellt einen neuen Ordner mit einer vorformatierten Markdown-Datei.
 
 ## Deployment 🚀
 
-  - TBD 🙄
+- TBD 🙄
+
+### Badge 🔰
+[![statichost.eu status](https://builder.statichost.eu/sebastian-sanitz/status.svg)](https://builder.statichost.eu/sebastian-sanitz/)
+
