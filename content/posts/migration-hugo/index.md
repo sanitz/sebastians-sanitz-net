@@ -1,13 +1,9 @@
 ---
-title: "Migration Hugo 🛠️"
+title: "Migration Hugo 🛠️ Januar 2026"
 date: 2026-01-07
 draft: false
 description: ""
-tags: ["Blog", "Hugo", "Migration"]
-cover:
-    image: ""
-    alt: ""
-    caption: ""
+tags: ["Blog"]
 ---
 
 ## Änderungen 🛠️
@@ -33,5 +29,13 @@ Der Blog benutzt nutzt jetzt das [PaperMod Theme](https://github.com/adityatelan
 
 ###  Konfiguration ⚙️
 Alle Einstellungen stehen jetzt zentral in einer einzigen Datei (`hugo.toml`). Das ist viel übersichtlicher als viele verstreute Javascript-Dateien.
+
+###  Deployment 🚀
+
+Der Blog ist jetzt bei [Statichost.eu](https://statichost.eu/) gehostet und wird automatisch bei jedem Push ins Git-Repository neu gebaut.
+
+[![statichost.eu status](https://builder.statichost.eu/sebastian-sanitz/status.svg)](https://builder.statichost.eu/sebastian-sanitz/)
+
+
 
 **Fazit:** Der Blog ist jetzt aufgeräumter und einfacher zu ergänzen - der Code dazu liegt hier [https://github.com/sanitz/sebastians-sanitz-net](https://github.com/sanitz/sebastians-sanitz-net)! 🎉
