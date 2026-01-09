@@ -6,9 +6,9 @@ tags:
   - podcasts
 draft: false
 cover:
-    image: ""
-    alt: ""
-    caption: ""
+    image: "alte_radios.jpg"
+    alt: "Bild eines alten Radios via Unsplash"
+    caption: "Alte Radios"
 ---
 
 Wie viele andere höre ich ["Das Coronavirus-Update von NDR Info (mit Christian Drosten)"](https://www.ndr.de/nachrichten/info/podcast4684.html). Seit dem habe ich **Podcasts 📻** wieder für mich entdeckt. Podcasts 📻 höre ich gerne zwischendurch, unterwegs oder wenn ich Arbeit erledige, bei der ich mich nicht zu sehr konzentrieren muss. Ich kann sie anhalten, später weiterhören, überspringen oder erneut abspielen.

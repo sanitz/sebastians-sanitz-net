@@ -4,6 +4,11 @@ date: 2026-01-07
 draft: false
 description: ""
 tags: ["Blog"]
+cover:
+    image: "muellfisch.jpg"
+    alt: "Bild eines Müllfisches aus Stahl am Strand mit leeren Plastikflaschen"
+    caption: "Müllfische am Strand"
+    relative: true
 ---
 
 ## Änderungen 🛠️
@@ -33,10 +38,8 @@ Alle Einstellungen stehen jetzt zentral in einer einzigen Datei (`hugo.toml`). D
 
 ### Deployment 🚀
 
-Der Blog ist jetzt bei [Statichost.eu](https://statichost.eu/) gehostet und wird automatisch bei jedem Push ins Git-Repository neu gebaut.
+Der Blog ist jetzt bei [statichost.eu](https://statichost.eu/) gehostet und wird automatisch bei jedem Push ins Git-Repository neu gebaut.
 
 [![statichost.eu status](https://builder.statichost.eu/sebastian-sanitz/status.svg)](https://builder.statichost.eu/sebastian-sanitz/)
-
-
 
 **Fazit:** Der Blog ist jetzt aufgeräumter und einfacher zu ergänzen. Der Code dazu liegt hier [https://github.com/sanitz/sebastians-sanitz-net](https://github.com/sanitz/sebastians-sanitz-net)! 🎉
