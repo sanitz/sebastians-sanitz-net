@@ -90,6 +90,10 @@ buildExpired = false
   url = "https://github.com/sanitz"
 
 [[params.socialIcons]]
+  name = "codeberg"
+  url = "https://codeberg.org/sanitz"
+
+[[params.socialIcons]]
   name = "xing"
   url = "https://www.xing.com/profile/Sebastian_Sanitz"
 

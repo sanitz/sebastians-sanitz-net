@@ -20,5 +20,6 @@ Schreibt mich gerne an - ich bin über die folgenden Kanälen zu erreichen:
 - [Mastodon](https://norden.social/@sanitz)
 - [Threema](https://threema.id/4WRUXU7H)
 - [GitHub](https://github.com/sanitz)
+- [Codeberg](https://codeberg.org/sanitz)
 - [Xing](https://www.xing.com/profile/Sebastian_Sanitz)
 - [LinkedIn](https://www.linkedin.com/in/sanitz)
