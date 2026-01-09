@@ -10,7 +10,7 @@ Ich bin fasziniert von Software- und Produktentwicklung, der Zusammenarbeit in T
 
 Auf diesem Blog werde ich meine Gedanken und Notizen zu diesen Themen sammeln und teilen.
 
-![Sebastian](/img/sebastian.jpg)
+![Sebastian](/img/sebastian.webp)
 
 ## Kontakt
 
