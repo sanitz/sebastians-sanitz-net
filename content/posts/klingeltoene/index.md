@@ -6,7 +6,7 @@ tags:
   - sounds
 draft: false
 cover:
-    image: "korg.jpg"
+    image: "korg.webp"
     alt: "Ausschnit eines Korg Synthesizers"
     caption: ""
     relative: true

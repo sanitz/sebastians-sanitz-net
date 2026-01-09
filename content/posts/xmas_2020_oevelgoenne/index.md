@@ -7,7 +7,7 @@ tags:
 draft: false
 
 cover:
-    image: "weihnachten_2020_oeveloenne.jpg"
+    image: "weihnachten_2020_oevelgoenne.webp"
     alt: "Bild des Elbstrands von Oevelgönne zu Weihnachten"
     caption: "Elbstrand Oevelgönne zu Weihnachten"
 

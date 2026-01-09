@@ -6,7 +6,7 @@ tags:
   - podcasts
 draft: false
 cover:
-    image: "alte_radios.jpg"
+    image: "alte_radios.webp"
     alt: "Bild eines alten Radios via Unsplash"
     caption: "Alte Radios"
 ---

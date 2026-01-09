@@ -5,7 +5,7 @@ draft: false
 description: ""
 tags: ["Blog"]
 cover:
-    image: "muellfisch.jpg"
+    image: "muellfisch.webp"
     alt: "Bild eines Müllfisches aus Stahl am Strand mit leeren Plastikflaschen"
     caption: "Müllfische am Strand"
     relative: true

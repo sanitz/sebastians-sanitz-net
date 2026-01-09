@@ -15,7 +15,7 @@ Our strategy is digital. We will lead an innovative effort of the market through
 
 # Test Image - Döner 
 
-![Test Bild Däner](doener.jpg)
+![Test Bild Däner](doener.webp)
 
 Main sheet swab spirits pink gally broadside. Hempen halter coxswain Pieces of Eight yo-ho-ho Sail ho draught. Spirits American Main maroon lass wherry swing the lead. Spirits barque Admiral of the Black stern keel run a rig. Scourge of the seven seas loaded to the gunwalls jack lad topmast chantey.
 
