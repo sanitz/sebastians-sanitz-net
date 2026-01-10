@@ -61,13 +61,9 @@ buildExpired = false
   safari_pinned_tab = "/img/favicon/favicon.png"
 
 [params.profileMode]
-  enabled = false
+  enabled = false 
   title = "Sebastian Sanitz"
   subtitle = "Software-Entwicklung, Teams, Technologie & mehr."
-  imageUrl = "/img/sebastian.jpg"
-  imageTitle = "Sebastian Sanitz"
-  imageWidth = 150
-  imageHeight = 150
 
 [[params.profileMode.buttons]]
   name = "Blog"
@@ -76,6 +72,11 @@ buildExpired = false
 [[params.profileMode.buttons]]
   name = "Über mich"
   url = "/about"
+
+[[params.social]]
+    name = "Mastodon"
+    url = "https://norden.social/@sanitz"
+    rel = "me"  
 
 [[params.socialIcons]]
   name = "email"
@@ -128,3 +129,11 @@ buildExpired = false
   name = "Über mich"
   url = "/about/"
   weight = 20
+
+[[menu.main]]
+  identifier = "mastodon"
+  name = "Mastodon"
+  url = "https://norden.social/@sanitz"
+  weight = 30
+  [menu.main.params]
+    rel = "me"
