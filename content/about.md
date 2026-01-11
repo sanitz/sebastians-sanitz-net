@@ -14,7 +14,7 @@ Auf diesem Blog werde ich meine Gedanken und Notizen zu diesen Themen sammeln un
 
 ## Kontakt
 
-Schreibt mich gerne an - ich bin über die folgenden Kanälen zu erreichen:
+Schreibt mich gerne an - ich bin über verschiedene Kanäle zu erreichen:
 
 - [Email](mailto:sebastian@sanitz.net)
 - [Mastodon](https://norden.social/@sanitz)
@@ -23,3 +23,5 @@ Schreibt mich gerne an - ich bin über die folgenden Kanälen zu erreichen:
 - [Codeberg](https://codeberg.org/sanitz)
 - [Xing](https://www.xing.com/profile/Sebastian_Sanitz)
 - [LinkedIn](https://www.linkedin.com/in/sanitz)
+
+{{< social_icons >}}

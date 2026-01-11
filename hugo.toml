@@ -88,6 +88,10 @@ buildExpired = false
   url = "https://norden.social/@sanitz"
 
 [[params.socialIcons]]
+  name = "threema"
+  url = "https://threema.id/4WRUXU7H"
+
+[[params.socialIcons]]
   name = "github"
   url = "https://github.com/sanitz"
 
