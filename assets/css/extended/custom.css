@@ -1,0 +1,28 @@
+/* Dark theme overrides for Navy Dark Blue */
+:root[data-theme="dark"] {
+    --theme: rgb(15, 23, 42);
+    --entry: rgb(30, 41, 59);
+    --primary: rgb(248, 250, 252);
+    --secondary: rgb(148, 163, 184);
+    --tertiary: rgb(71, 85, 105);
+    --content: rgb(226, 232, 240);
+    --code-block-bg: rgb(30, 41, 59);
+    --code-bg: rgb(51, 65, 85);
+    --border: rgb(51, 65, 85);
+    color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+        --theme: rgb(15, 23, 42);
+        --entry: rgb(30, 41, 59);
+        --primary: rgb(248, 250, 252);
+        --secondary: rgb(148, 163, 184);
+        --tertiary: rgb(71, 85, 105);
+        --content: rgb(226, 232, 240);
+        --code-block-bg: rgb(30, 41, 59);
+        --code-bg: rgb(51, 65, 85);
+        --border: rgb(51, 65, 85);
+        color-scheme: dark;
+    }
+}
